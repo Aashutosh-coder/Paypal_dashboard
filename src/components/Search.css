@@ -1,0 +1,47 @@
+.srch-outer{
+    /* width:100px ; */
+    /* border: 1px solid #ccc;  */
+    display: flex; 
+    align-items: center;
+    /* height: 52px;  */
+    justify-content: center;
+
+    
+}
+
+.searchbar {
+    display: flex;
+    border: 1px solid rgb(142, 141, 141);
+    width: 700px;
+    height: 52px;
+    margin-top: 20px;
+    border-radius: 30px;
+    /* justify-content: space-between; */
+}
+
+.searchbar img{
+  height: 30px;
+  width: 30px;
+  margin: auto 0px;
+  margin-left:14px ; 
+}
+
+.searchbar-input {
+    border: none;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 4px;
+    outline: none;
+    width: 600px;
+    /* border: 1px solid red;  */
+}
+
+.download{
+  height: 50px;
+  width: 50px;
+  margin-top: 18px;
+  margin-left: 28px;
+  /* justify-self: flex-end;  */
+}
+
+  

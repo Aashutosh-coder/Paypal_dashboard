@@ -1,0 +1,44 @@
+.main-details{
+    border: 2px solid rgb(194, 194, 194);
+    width: 762px;
+    display: flex;
+    
+    align-items: center;
+    margin: 0px auto;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 15px;
+    height: 45px;
+    margin-top: 10px ;
+}
+.left-sect img{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.left-sect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+        align-items: flex-start;
+}
+
+.comp-name{
+    font-weight: bold;
+}
+
+.tranc-details{
+    font-weight: 500;
+    opacity: 0.8;
+}
+
+.right-sect{
+    font-weight: 500;
+    opacity: 0.8;
+}

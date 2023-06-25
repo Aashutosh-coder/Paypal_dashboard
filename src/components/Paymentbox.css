@@ -1,0 +1,14 @@
+.main-pyment{
+    /* border: 2px solid red;  */
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: -17px auto;
+    justify-content: space-around;
+    padding: 20px;
+}
+.week-head{
+    opacity: 0.9;
+    display: inline;
+}
